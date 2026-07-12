@@ -1,0 +1,10 @@
+streamlit
+tensorflow>=2.16
+transformers
+torch
+plotly
+python-dotenv
+google-generativeai
+pandas
+nltk
+numpy
