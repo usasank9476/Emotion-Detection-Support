@@ -86,7 +86,7 @@ To get started with AuraStudy, follow these simple steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/AuraStudy](https://github.com/usasank9476/Emotion-Detection-Support.git
+   git clone https://github.com/usasank9476/Emotion-Detection-Support.git
    cd Emotion-Detection-Support
    ```
 
