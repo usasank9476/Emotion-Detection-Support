@@ -38,7 +38,7 @@ The following diagram details the internal workings of our dual neural pipeline 
 
 ```
 +------------------+       +------------------+
-|    Student Data   |       |    Student Data   |
+|    Student Data   |      |    Student Data   |
 +------------------+       +------------------+
           |                          |
           |                          |
