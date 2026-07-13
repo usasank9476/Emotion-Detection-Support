@@ -46,7 +46,7 @@ The following diagram details the internal workings of our dual neural pipeline 
 +------------------+       +------------------+
 |   Feature        |       |   Feature        |
 |   Extraction     |       |   Extraction     |
-|   (BiLSTM)      |       |   (BERT)        |
+|   (BiLSTM)       |       |   (BERT)         |
 +------------------+       +------------------+
           |                          |
           |                          |
@@ -59,7 +59,7 @@ The following diagram details the internal workings of our dual neural pipeline 
                        |
                        v
 +-----------------------------+
-|      Emotion Classification  |
+|      Emotion Classification |
 +-----------------------------+
 ```
 
