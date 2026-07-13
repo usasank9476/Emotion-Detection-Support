@@ -9,27 +9,27 @@ Below is a visual representation of the student journey within AuraStudy, illust
 
 ```
 +------------------+
-|   Student Query   |
+|   Student Query  |
 +------------------+
           |
           v
 +------------------+
-|   Preprocessing   |
+|   Preprocessing  |
 +------------------+
           |
           v
 +------------------+
-|  Neural Pipeline  |
+|  Neural Pipeline |
 +------------------+
           |
           v
 +----------------------+
-|   Emotion Inference   |
+|   Emotion Inference  |
 +----------------------+
           |
           v
 +-----------------------+
-|  Guidance Generation   |
+|  Guidance Generation  |
 +-----------------------+
 ```
 
@@ -38,7 +38,7 @@ The following diagram details the internal workings of our dual neural pipeline 
 
 ```
 +------------------+       +------------------+
-|    Student Data   |      |    Student Data   |
+|    Student Data  |       |    Student Data  |
 +------------------+       +------------------+
           |                          |
           |                          |
@@ -97,7 +97,7 @@ To get started with AuraStudy, follow these simple steps:
 
 3. **Launch the application**:
    ```bash
-   python app.py
+   streamlit run app.py
    ```
 
 With these straightforward instructions, you'll be ready to experience the transformative power of AuraStudy in your academic journey!
