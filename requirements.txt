@@ -8,3 +8,31 @@ google-generativeai
 pandas
 nltk
 numpy
+
+
+
+
+
+
+
+Timestamp,StudentText,PrimaryEmotion,SecondaryEmotion,BiLSTM_Scores,BERT_Scores,Aggregated_Scores,GeminiResponse
+2026-07-11 19:49:49,"I am confused by the loop variables, they overlap.",Confused,Confident,"{'Bored': 0.0008946273592300713, 'Confident': 0.2068493664264679, 'Confused': 0.7773140072822571, 'Curious': 0.001661644666455686, 'Frustrated': 0.013280308805406094}","{'Bored': 0.14441226422786713, 'Confident': 0.2130437195301056, 'Confused': 0.22454653680324554, 'Curious': 0.19328399002552032, 'Frustrated': 0.2247135043144226}","{'Bored': 0.0726534457935486, 'Confident': 0.20994654297828674, 'Confused': 0.5009302720427513, 'Curious': 0.097472817345988, 'Frustrated': 0.11899690655991435}","Getting lost in complex coding concepts like loops and variables is a normal part of the learning process.
+
+Let's break down the logic: a loop runs a block of code repeatedly as long as a condition remains true. If your loop variables are overlapping or not updating correctly, trace the variable values manually line-by-line using a simple paper test to see where they deviate from your expectations.
+
+Add print statements inside the loop body to display the values of all loop counter variables at each iteration."
+2026-07-11 23:00:00,"I'm trying to break down a massive data warehousing parsing block into smaller helper functions, but I'm completely lost on how to pass multi-dimensional arrays between functions without throwing memory segmentation faults. The nested loops are completely breaking my brain.",Curious,Frustrated,"{'Bored': 0.30879226326942444, 'Confident': 0.06287091970443726, 'Confused': 0.07552418857812881, 'Curious': 0.3204662501811981, 'Frustrated': 0.23234637081623077}","{'Bored': 0.14582370221614838, 'Confident': 0.20934636890888214, 'Confused': 0.20723740756511688, 'Curious': 0.20368877053260803, 'Frustrated': 0.23390375077724457}","{'Bored': 0.2273079827427864, 'Confident': 0.1361086443066597, 'Confused': 0.14138079807162285, 'Curious': 0.2620775103569031, 'Frustrated': 0.23312506079673767}","It is fantastic that you want to dive deeper into the differences between BiLSTM and BERT models.
+
+BiLSTMs process tokens sequentially in both forward and backward directions to capture local context, which makes them highly efficient for sequence mapping. In contrast, BERT uses self-attention mechanisms to evaluate relationships between all words in a sentence simultaneously, allowing it to capture richer, bidirectional semantic representations.
+
+Try searching for a quick tutorial comparing transformer attention vs LSTM gating mechanisms to see their visual architectures."
+2026-07-11 23:00:15,"I'm trying to break down a massive data warehousing parsing block into smaller helper functions, but I'm completely lost on how to pass multi-dimensional arrays between functions without throwing memory segmentation faults. The nested loops are completely breaking my brain.",Curious,Frustrated,"{'Bored': 0.30879226326942444, 'Confident': 0.06287091970443726, 'Confused': 0.07552418857812881, 'Curious': 0.3204662501811981, 'Frustrated': 0.23234637081623077}","{'Bored': 0.14582370221614838, 'Confident': 0.20934636890888214, 'Confused': 0.20723740756511688, 'Curious': 0.20368877053260803, 'Frustrated': 0.23390375077724457}","{'Bored': 0.2273079827427864, 'Confident': 0.1361086443066597, 'Confused': 0.14138079807162285, 'Curious': 0.2620775103569031, 'Frustrated': 0.23312506079673767}","It is fantastic that you want to dive deeper into the differences between BiLSTM and BERT models.
+
+BiLSTMs process tokens sequentially in both forward and backward directions to capture local context, which makes them highly efficient for sequence mapping. In contrast, BERT uses self-attention mechanisms to evaluate relationships between all words in a sentence simultaneously, allowing it to capture richer, bidirectional semantic representations.
+
+Try searching for a quick tutorial comparing transformer attention vs LSTM gating mechanisms to see their visual architectures."
+2026-07-14 18:18:18,Hey! I just passed my basic networking modules and I'm incredibly excited to dive into Ethical Hacking. Where should I start if I want to learn about penetration testing methodologies safely without breaking the law?,Curious,Bored,"{'Bored': 0.34071674942970276, 'Confident': 0.04024698585271835, 'Confused': 0.055427394807338715, 'Curious': 0.33550015091896057, 'Frustrated': 0.22810868918895721}","{'Bored': 0.1532357782125473, 'Confident': 0.21416562795639038, 'Confused': 0.20928165316581726, 'Curious': 0.1953205168247223, 'Frustrated': 0.22799651324748993}","{'Bored': 0.24697626382112503, 'Confident': 0.12720630690455437, 'Confused': 0.132354523986578, 'Curious': 0.26541033387184143, 'Frustrated': 0.22805260121822357}","It is fantastic that you want to dive deeper into the differences between BiLSTM and BERT models.
+
+BiLSTMs process tokens sequentially in both forward and backward directions to capture local context, which makes them highly efficient for sequence mapping. In contrast, BERT uses self-attention mechanisms to evaluate relationships between all words in a sentence simultaneously, allowing it to capture richer, bidirectional semantic representations.
+
+Try searching for a quick tutorial comparing transformer attention vs LSTM gating mechanisms to see their visual architectures."
