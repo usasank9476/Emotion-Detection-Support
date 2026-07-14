@@ -2,6 +2,9 @@
 
 In today's fast-paced educational environment, students often feel overwhelmed by the challenges they face. Whether it's tackling complex subjects or managing time effectively, these hurdles can lead to frustration and disengagement. AuraStudy is here to change that. Our intelligent, emotion-aware academic mentor transforms raw, free-text student challenges into high-quality, emotionally intelligent guidance tailored to each individual's needs. We understand that every student is unique, and our mission is to provide support that truly resonates.
 
+## 📺 Project Demonstration
+https://drive.google.com/file/d/199bJNbExfvu0orx-LfvHmy6x_vq6PlYD/view?usp=sharing
+
 ## Architecture Overview
 
 ### Student Journey Diagram
